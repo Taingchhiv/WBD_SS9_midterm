@@ -1,0 +1,55 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #e9ecef;
+}
+.infor-header h1 {
+
+    font-size: 50px;
+    font-weight: 700;
+
+}
+.infor-header h4 {
+    font-size: 28px;
+    font-weight: 600;
+}
+.infor-body i{
+    margin-right: 10px;
+
+}
+.infor-header p {
+    line-height: 0.7;
+}
+.infor-social a {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    background-color: #444;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 10px;
+    transition: all 0.5s ease 0s;
+}
+.infor-social a.facebook:hover{
+    background-color: blue;
+}
+.infor-social a.youtube:hover{
+    background-color: red;
+}
+.infor-social a.Instargram:hover{
+    background-color: #8a3ab9;
+}
+.infor-social a.twitter:hover{
+    background-color: blue;
+}
+.infor-social a.Starwar:hover{
+    background-color: black;
+}
+.infor-social a.github:hover{
+    background-color: black;
+}
+section h2 {
+    font-weight: 600;
+    font-size: 32px;
+}
